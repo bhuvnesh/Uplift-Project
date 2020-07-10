@@ -8,8 +8,9 @@ Mentored by :
 ### Instruction 
  - Don't edit master branch directly , first create a branch with your name if code is working fine merge it with master branch
  - In index.html file write your html code
- - In style.css write your css ( you can use bootstrap)
- - In idex.js  add the required javascript
+ - In css/style.css write your css ( you can use bootstrap)
+ - In js/index.js  add the required javascript
+ - img folder is to keep youe assests
  - You can contact me or any other mentor on slack regarding any issue you face
  - happy coding !!!!
  
