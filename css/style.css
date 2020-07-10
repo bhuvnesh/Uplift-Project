@@ -1,0 +1,28 @@
+/* this is your css file  */ 
+/*====================================================
+                DEFAULT VALUES:
+                Font Family                 : Roboto Condensed
+                
+                Greenish Blue               : #34c6d3       (Buttons, Icons, Links, Lines & Backgrounds)
+                Steel Gray                  : #41464b       (Headings)
+                Blue Bayoux                 : #64707b       (Paragraphs)
+                White                       : #fff          (Text With Black Backgrounds)
+                Black                       : #000 
+                
+                if required you all can edit this value and add further color hash , this is just to make coding easier
+                keep mentioning the fonts used ( you can use any of your choice )
+======================================================*/
+
+
+/*====================================================
+                        HOME
+======================================================*/
+/*  for all section put the section name in comments then write */
+/* down the css and where you end your editing put a comment end*/
+/*  use this as an example practice  */
+
+/*====================================================
+                   HOME End
+======================================================*/
+
+/* if you feel the css is file is becoming too long to handle create a new css file in css directory and import it in html */
