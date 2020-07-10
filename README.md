@@ -1,7 +1,7 @@
 # Uplift-Project
 
 ### This repo is for all working under html team - 0
-Aim is to build a user friendly website for sorting dishes based on area, ths project is under Girlscript foundation's Uplift Project.
+Aim is to build a user friendly single page website for sorting dishes based on area, ths project is under Girlscript foundation's Uplift Project.
 Mentored by : 
   - Ankita Aditya
   - Anshul Rai
