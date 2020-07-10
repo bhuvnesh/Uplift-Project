@@ -13,6 +13,15 @@
                 keep mentioning the fonts used ( you can use any of your choice )
 ======================================================*/
 
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: "Roboto Slab", serif;
+}
+
 
 /*====================================================
                         HOME
@@ -20,6 +29,9 @@
 /*  for all section put the section name in comments then write */
 /* down the css and where you end your editing put a comment end*/
 /*  use this as an example practice  */
+#home {
+  height: 100%;
+}
 
 /*====================================================
                    HOME End
